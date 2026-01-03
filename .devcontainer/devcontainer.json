@@ -26,9 +26,10 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dbaeumer.vscode-eslint",
-				"GitHub.vscode-pull-request-github"
-			]
+    "dbaeumer.vscode-eslint",
+    "GitHub.vscode-pull-request-github",
+    "ms-azuretools.vscode-containers"
+   ]
 		},
 		"codespaces": {
 			"repositories": {

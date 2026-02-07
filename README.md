@@ -6,7 +6,9 @@ This repository holds the dev container CLI, which can take a devcontainer.json 
 
 A development container allows you to use a container as a full-featured development environment. It can be used to run an application, to separate tools, libraries, or runtimes needed for working with a codebase, and to aid in continuous integration and testing. Dev containers can be run locally or remotely, in a private or public cloud.
 
-![Diagram of inner and outerloop development with dev containers](/images/dev-container-stages.png)
+![Diagram of inner and outerloop development with dev npm run watch
+Đây là kịch bản tập 
+containers](/images/dev-container-stages.png)
 
 This CLI is in active development. Current status:
 

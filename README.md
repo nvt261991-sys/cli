@@ -1,4 +1,4 @@
-# Dev Container CLI
+#
 
 This repository holds the dev container CLI, which can take a devcontainer.json and create and configure a dev container from it.
 
